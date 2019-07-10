@@ -1,3 +1,10 @@
+---
+layout: post
+title: 夏令营算法复习整理
+date: 2018-07-10 16:19
+catagories: algorithm
+---
+
 # 分类别复习
 ## 动态规划
 Especially useful for **optimization problem**  
