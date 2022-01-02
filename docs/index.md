@@ -10,4 +10,3 @@ Below are some of my personal projects.
 
 Pudding is a project that enables you to run various machine learning algorithms on Nvidia's GPU. It's written in CUDA and C/C++. I also provide a python binding for it so one can use it more easily. For more details, please refer the [project page](https://duconnor.github.io/Pudding/).
 
-Note since this project is currently under developed so I keep the code private. I plan to make it public by the end of 2022.3.
