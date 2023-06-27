@@ -1,6 +1,6 @@
 # About Myself
 
-I am currently a graduate student at [School of Artificial Intelligence](https://ai.nju.edu.cn) in [Nanjing University](https://www.nju.edu.cn), supervised by Professor [Jianxin Wu](https://cs.nju.edu.cn/wujx/). I am also a member of [LAMDA Group](https://www.lamda.nju.edu.cn/CH.MainPage.ashx). Before that, I received my B.Sc. degree from [Computer Science and Technology Department](https://cs.nju.edu.cn) of [Nanjing University](https://www.nju.edu.cn).
+I received my M.Sc. degree from [LAMDA Group](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) of [School of Artificial Intelligence](https://ai.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn) in June 2023, supervised by Professor [Jianxin Wu](https://cs.nju.edu.cn/wujx/). Before that, I received my B.Sc. degree from [Computer Science and Technology Department](https://cs.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn) in June 2020.
 
 # Projects
 
